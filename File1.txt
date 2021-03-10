@@ -1,6 +1,0 @@
-This is file 1 in Feature branch
-<<<<<<< HEAD
-Updating through remote for merge
-=======
-Updating same file for merge conflict in Dev Branch
->>>>>>> db32409 (merge)
