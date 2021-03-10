@@ -1,2 +1,2 @@
 This is file 1 in Feature branch
-Updating same file for merge conflict in Dev Branch
+Updating through remote for merge
